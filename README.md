@@ -4,7 +4,7 @@ Genova VR is a generative AI framework for transforming educational prompts into
 
 ## Manuscript Status
 
-**Peer review pending.** The manuscript is being submitted to IEEE Access and has not been accepted.
+**Peer review pending.** The manuscript has been submitted to IEEE Access and has not been accepted.
 
 **Title:** Genova VR: A Generative AI Framework for Transforming Prompts into Complete Educational Virtual Reality Experiences
 
